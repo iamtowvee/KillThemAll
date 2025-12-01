@@ -1,5 +1,6 @@
 # KillThemAll
 A game in the arcade shooter genre.
+
 ---
 ## Gameplay
 You appear in the labyrinth. You have a starting pistol with 5 bullets. Monsters are all around, spawning randomly across the map. Your goal is to clear the area and find the exit.
