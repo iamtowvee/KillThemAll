@@ -1,6 +1,6 @@
 # KillThemAll 🎯
 
-![Game Banner](https://img.shields.io/badge/Unity-2022.6-orange) ![License](https://img.shields.io/badge/License-MIT-blue) ![Status](https://img.shields.io/badge/Status-In%20Development-green)
+![License](https://img.shields.io/badge/License-MIT-blue) ![Status](https://img.shields.io/badge/Status-In%20Development-green)
 
 **KillThemAll** - это динамичный шутер от первого лица с процедурной генерацией уровней, системой крафта и таблицей рекордов. Очищайте лабиринты, собирайте оружие и побеждайте полчища монстров!
 
